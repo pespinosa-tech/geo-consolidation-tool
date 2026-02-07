@@ -3,4 +3,6 @@ pandas
 numpy
 matplotlib
 scipy
-pdfplumber
+streamlit-image-coordinates
+pillow
+
